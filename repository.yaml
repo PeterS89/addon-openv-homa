@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: OpenV vcontrold to HomA MQTT add-on repository
+name: OpenV vcontrold to HomA MQTT add-on repository Testversion
 url: "https://github.com/PeterS89/addon-openv-homa"
 maintainer: Holger Mueller <hmueller01@users.noreply.github.com>
